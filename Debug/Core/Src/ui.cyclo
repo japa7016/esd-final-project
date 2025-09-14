@@ -1,0 +1,7 @@
+../Core/Src/ui.c:33:6:ui	1
+../Core/Src/ui.c:41:6:sideInfo	4
+../Core/Src/ui.c:89:6:settingsBar	15
+../Core/Src/ui.c:154:6:dso_increase	10
+../Core/Src/ui.c:175:6:dso_decrease	11
+../Core/Src/ui.c:198:6:dso_select	2
+../Core/Src/ui.c:204:6:HAL_GPIO_EXTI_Callback	7

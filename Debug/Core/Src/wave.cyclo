@@ -1,0 +1,5 @@
+../Core/Src/wave.c:26:7:adcToVoltage	1
+../Core/Src/wave.c:30:6:findTrigger	11
+../Core/Src/wave.c:63:6:drawGraticule	3
+../Core/Src/wave.c:76:6:drawTrace	8
+../Core/Src/wave.c:122:6:traceScreen	1

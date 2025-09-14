@@ -1,0 +1,7 @@
+../Core/Src/ui.c:33:6:ui	8	static
+../Core/Src/ui.c:41:6:sideInfo	32	static
+../Core/Src/ui.c:89:6:settingsBar	32	static
+../Core/Src/ui.c:154:6:dso_increase	8	static
+../Core/Src/ui.c:175:6:dso_decrease	8	static
+../Core/Src/ui.c:198:6:dso_select	8	static
+../Core/Src/ui.c:204:6:HAL_GPIO_EXTI_Callback	16	static

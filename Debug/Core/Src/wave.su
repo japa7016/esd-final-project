@@ -1,0 +1,5 @@
+../Core/Src/wave.c:26:7:adcToVoltage	16	static
+../Core/Src/wave.c:30:6:findTrigger	40	static
+../Core/Src/wave.c:63:6:drawGraticule	40	static
+../Core/Src/wave.c:76:6:drawTrace	48	static
+../Core/Src/wave.c:122:6:traceScreen	8	static
